@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color:#282c34;
+}
+
+.business-card{
+  background-color:#232829;
+}
+
+.description{
+  text-align:center;
+  color:white;
+}
+
+.card-border{
+  background-color: #232829;
+}
+
+.name{
+  text-align:center;
+  color: white;
+  font-size:45px;
+}
+
+.business-logo{
+  width: 400px
+}
+
+.email-linkedin{
+  text-align: center;
+}
+
+.linkedin-btn {
+  margin-left: 40px;
+}
+
+.about, .interests {
+  margin-top: 20px;
+  color:white;
+  max-width: 500px;
+  text-align: left;
+}
